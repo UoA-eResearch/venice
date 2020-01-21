@@ -1,0 +1,1155 @@
+newmtl model_material_22_7_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture8.png
+map_d texture8.png
+
+newmtl CityEngineMaterial_52
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_3tiles.bump.jpg
+map_Kd ven.2stories_3tiles.jpg
+map_Ks ven.2stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_73
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.4stories_1tiles.jpg
+
+newmtl CityEngineMaterial_31
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof9.png
+
+newmtl CityEngineMaterial_28
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.4.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof8.png
+
+newmtl CityEngineMaterial_26
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_2tiles.bump.jpg
+map_Kd ven.2stories_2tiles.jpg
+map_Ks ven.2stories_2tiles.bump.jpg
+
+newmtl model_material_14_9_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture8_1.jpg
+
+newmtl CityEngineMaterial_51
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_2tiles.bump.jpg
+map_Kd ven.2stories_2tiles.jpg
+map_Ks ven.2stories_2tiles.bump.jpg
+
+newmtl model_material_8_21_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture4.jpg
+
+newmtl CityEngineMaterial_29
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.4stories_4tiles.jpg
+
+newmtl model_material_4_22_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture0.png
+map_d texture0.png
+
+newmtl CityEngineMaterial_25
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_8tiles.bump.jpg
+map_Kd ven.3stories_8tiles.jpg
+map_Ks ven.3stories_8tiles.bump.jpg
+
+newmtl model_material_21_24SG
+illum 3
+Ka 0 0 0
+Kd 0.14 0.14 0.14
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl model_material_18_13_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture6.png
+map_d texture6.png
+
+newmtl CityEngineMaterial_59
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_7tiles.jpg
+
+newmtl CityEngineMaterial_32
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.9.jpg
+
+newmtl CityEngineMaterial_17
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_6tiles.bump.jpg
+map_Kd ven.2stories_6tiles.jpg
+map_Ks ven.2stories_6tiles.bump.jpg
+
+newmtl CityEngineMaterial_63
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_7tiles.jpg
+
+newmtl CityEngineMaterial_18
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_6tiles.jpg
+
+newmtl model_material_12_6_8SG_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture3.png
+map_d texture3.png
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 streets.bump.jpg
+map_Kd streets.color.jpg
+
+newmtl CityEngineMaterial_60
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_7tiles.bump.jpg
+map_Kd ven.2stories_7tiles.jpg
+map_Ks ven.2stories_7tiles.bump.jpg
+
+newmtl model_material_12_6_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_46
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_7tiles.bump.jpg
+map_Kd ven.2stories_7tiles.jpg
+map_Ks ven.2stories_7tiles.bump.jpg
+
+newmtl CityEngineMaterial_33
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.2.jpg
+
+newmtl CityEngineMaterial_23
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.3.jpg
+
+newmtl CityEngineMaterial_71
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_7tiles.bump.jpg
+map_Kd ven.3stories_7tiles.jpg
+map_Ks ven.3stories_7tiles.bump.jpg
+
+newmtl CityEngineMaterial_68
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_8tiles.bump.jpg
+map_Kd ven.2stories_8tiles.jpg
+map_Ks ven.2stories_8tiles.bump.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_43
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.5stories_4tiles.jpg
+
+newmtl CityEngineMaterial_56
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_9tiles.bump.jpg
+map_Kd ven.2stories_9tiles.jpg
+map_Ks ven.2stories_9tiles.bump.jpg
+
+newmtl CityEngineMaterial_22
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_8tiles.bump.jpg
+map_Kd ven.3stories_8tiles.jpg
+map_Ks ven.3stories_8tiles.bump.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.1.jpg
+
+newmtl model_material_1_2_8SG_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_58
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof7.png
+
+newmtl CityEngineMaterial_69
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_3tiles.bump.jpg
+map_Kd ven.2stories_3tiles.jpg
+map_Ks ven.2stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_45
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof2.png
+
+newmtl model_material_6_19_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture1.png
+map_d texture1.png
+
+newmtl CityEngineMaterial_30
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_4tiles.bump.jpg
+map_Kd ven.4stories_4tiles.jpg
+map_Ks ven.4stories_4tiles.bump.jpg
+
+newmtl model_material_1_2_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture0_1.jpg
+
+newmtl CityEngineMaterial_57
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof3.png
+
+newmtl model_material_5_5_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture3_1.jpg
+
+newmtl CityEngineMaterial_47
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_4tiles.bump.jpg
+map_Kd ven.3stories_4tiles.jpg
+map_Ks ven.3stories_4tiles.bump.jpg
+
+newmtl model_material_16_11_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture5.png
+map_d texture5.png
+
+newmtl CityEngineMaterial_72
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_1tiles.bump.jpg
+map_Kd ven.4stories_1tiles.jpg
+map_Ks ven.4stories_1tiles.bump.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_3tiles.jpg
+
+newmtl CityEngineMaterial_53
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_3tiles.jpg
+
+newmtl CityEngineMaterial_19
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_6tiles.bump.jpg
+map_Kd ven.2stories_6tiles.jpg
+map_Ks ven.2stories_6tiles.bump.jpg
+
+newmtl model_material_13_3_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture7.jpg
+
+newmtl CityEngineMaterial_16
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.5.jpg
+
+newmtl CityEngineMaterial_35
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.4stories_3tiles.jpg
+
+newmtl CityEngineMaterial_62
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_5tiles.jpg
+
+newmtl CityEngineMaterial_41
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof4.png
+
+newmtl CityEngineMaterial_2
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_3tiles.bump.jpg
+map_Kd ven.3stories_3tiles.jpg
+map_Ks ven.3stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_36
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_3tiles.bump.jpg
+map_Kd ven.4stories_3tiles.jpg
+map_Ks ven.4stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_39
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_6tiles.bump.jpg
+map_Kd ven.3stories_6tiles.jpg
+map_Ks ven.3stories_6tiles.bump.jpg
+
+newmtl CityEngineMaterial_40
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_7tiles.bump.jpg
+map_Kd ven.3stories_7tiles.jpg
+map_Ks ven.3stories_7tiles.bump.jpg
+
+newmtl CityEngineMaterial_66
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_8tiles.bump.jpg
+map_Kd ven.2stories_8tiles.jpg
+map_Ks ven.2stories_8tiles.bump.jpg
+
+newmtl model_material_19_14_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture7_1.png
+map_d texture7_1.png
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.6.jpg
+
+newmtl CityEngineMaterial_5
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_3tiles.bump.jpg
+map_Kd ven.3stories_3tiles.jpg
+map_Ks ven.3stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_24
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_8tiles.jpg
+
+newmtl CityEngineMaterial_12
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_5tiles.bump.jpg
+map_Kd ven.2stories_5tiles.jpg
+map_Ks ven.2stories_5tiles.bump.jpg
+
+newmtl model_material_7_20_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture2.png
+map_d texture2.png
+
+newmtl CityEngineMaterial_34
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_3tiles.bump.jpg
+map_Kd ven.4stories_3tiles.jpg
+map_Ks ven.4stories_3tiles.bump.jpg
+
+newmtl CityEngineMaterial_61
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_5tiles.bump.jpg
+map_Kd ven.3stories_5tiles.jpg
+map_Ks ven.3stories_5tiles.bump.jpg
+
+newmtl CityEngineMaterial_54
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_9tiles.bump.jpg
+map_Kd ven.2stories_9tiles.jpg
+map_Ks ven.2stories_9tiles.bump.jpg
+
+newmtl CityEngineMaterial_67
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_8tiles.jpg
+
+newmtl model_material_15_10_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture4_1.png
+map_d texture4_1.png
+
+newmtl CityEngineMaterial_42
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof6.png
+
+newmtl CityEngineMaterial_75
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.3 streets.bump.jpg
+map_Kd streets.color.reddish.jpg
+
+newmtl CityEngineMaterial_20
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_9tiles.bump.jpg
+map_Kd ven.3stories_9tiles.jpg
+map_Ks ven.3stories_9tiles.bump.jpg
+
+newmtl CityEngineMaterial_13
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_9tiles.bump.jpg
+map_Kd ven.3stories_9tiles.jpg
+map_Ks ven.3stories_9tiles.bump.jpg
+
+newmtl CityEngineMaterial_15
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_9tiles.jpg
+
+newmtl model_material_11_15_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture6_1.jpg
+
+newmtl CityEngineMaterial_48
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof1.png
+
+newmtl CityEngineMaterial_50
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.7.jpg
+
+newmtl CityEngineMaterial_9
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.2stories_5tiles.bump.jpg
+map_Kd ven.2stories_5tiles.jpg
+map_Ks ven.2stories_5tiles.bump.jpg
+
+newmtl CityEngineMaterial_27
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_2tiles.jpg
+
+newmtl model_material_20_4_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture10.jpg
+
+newmtl CityEngineMaterial_44
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.5stories_4tiles.bump.jpg
+map_Kd ven.5stories_4tiles.jpg
+map_Ks ven.5stories_4tiles.bump.jpg
+
+newmtl CityEngineMaterial_65
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd flatroof5.png
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_5tiles.jpg
+
+newmtl CityEngineMaterial_37
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_6tiles.bump.jpg
+map_Kd ven.3stories_6tiles.jpg
+map_Ks ven.3stories_6tiles.bump.jpg
+
+newmtl CityEngineMaterial_49
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_4tiles.jpg
+
+newmtl model_material_17_12_8SG
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd texture9.jpg
+
+newmtl CityEngineMaterial_55
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.2stories_9tiles.jpg
+
+newmtl CityEngineMaterial_70
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_5tiles.bump.jpg
+map_Kd ven.3stories_5tiles.jpg
+map_Ks ven.3stories_5tiles.bump.jpg
+
+newmtl CityEngineMaterial_6
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_4tiles.bump.jpg
+map_Kd ven.4stories_4tiles.jpg
+map_Ks ven.4stories_4tiles.bump.jpg
+
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 0.5 rooftile.bump.jpg
+map_Kd rooftile.color.8.jpg
+
+newmtl CityEngineMaterial_38
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ven.3stories_6tiles.jpg
+
+newmtl CityEngineMaterial_64
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.3stories_4tiles.bump.jpg
+map_Kd ven.3stories_4tiles.jpg
+map_Ks ven.3stories_4tiles.bump.jpg
+
+newmtl CityEngineMaterial_74
+illum 4
+Ka 0 0 0
+Kd 0.466667 0.466667 0.466667
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.4stories_1tiles.bump.jpg
+map_Kd ven.4stories_1tiles.jpg
+map_Ks ven.4stories_1tiles.bump.jpg
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd base.1.jpg
+
+newmtl CityEngineShapeMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd venice_satellite_with_waterways.png
+
+newmtl CityEngineMaterial_21
+illum 4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+Ns 20
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+bump -bm 1 ven.5stories_4tiles.bump.jpg
+map_Kd ven.5stories_4tiles.jpg
+map_Ks ven.5stories_4tiles.bump.jpg
+

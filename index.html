@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+	<!-- Google Analytics
+	
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-119321893-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
+	End Google Analytics -->
+
+	
+	
+		<title>Sea Level Rise Venice</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		
+		<link href="vis/dist/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css">
+		
+		<!-- VIS.js timeline -->
+		<link href="vis/dist/vis.css" rel="stylesheet" type="text/css" />
+		
+		<link rel="stylesheet" href="Local/bootstrap.min.css">
+		<link rel="stylesheet" href="main.css">
+
+	</head>
+    <body>
+
+        <svg id="loading">
+            <g>
+                <path class="ld-l" fill="#bcd6f4" d="M43.6,33.2h9.2V35H41.6V15.2h2V33.2z" />
+                <path class="ld-o" fill="#bcd6f4" d="M74.7,25.1c0,1.5-0.3,2.9-0.8,4.2c-0.5,1.3-1.2,2.4-2.2,3.3c-0.9,0.9-2,1.6-3.3,2.2
+				c-1.3,0.5-2.6,0.8-4.1,0.8s-2.8-0.3-4.1-0.8c-1.3-0.5-2.4-1.2-3.3-2.2s-1.6-2-2.2-3.3C54.3,28,54,26.6,54,25.1s0.3-2.9,0.8-4.2
+				c0.5-1.3,1.2-2.4,2.2-3.3s2-1.6,3.3-2.2c1.3-0.5,2.6-0.8,4.1-0.8s2.8,0.3,4.1,0.8c1.3,0.5,2.4,1.2,3.3,2.2c0.9,0.9,1.6,2,2.2,3.3
+				C74.4,22.2,74.7,23.6,74.7,25.1z M72.5,25.1c0-1.2-0.2-2.3-0.6-3.3c-0.4-1-0.9-2-1.6-2.8c-0.7-0.8-1.6-1.4-2.6-1.9
+				c-1-0.5-2.2-0.7-3.4-0.7c-1.3,0-2.4,0.2-3.4,0.7c-1,0.5-1.9,1.1-2.6,1.9c-0.7,0.8-1.3,1.7-1.6,2.8c-0.4,1-0.6,2.1-0.6,3.3
+				c0,1.2,0.2,2.3,0.6,3.3c0.4,1,0.9,2,1.6,2.7c0.7,0.8,1.6,1.4,2.6,1.9c1,0.5,2.2,0.7,3.4,0.7c1.3,0,2.4-0.2,3.4-0.7
+				c1-0.5,1.9-1.1,2.6-1.9c0.7-0.8,1.3-1.7,1.6-2.7C72.4,27.4,72.5,26.3,72.5,25.1z" />
+                <path class="ld-a" fill="#bcd6f4" d="M78.2,35H76l8.6-19.8h2L95.1,35h-2.2l-2.2-5.2H80.4L78.2,35z M81.1,27.9h8.7l-4.4-10.5L81.1,27.9z" />
+                <path class="ld-d" fill="#bcd6f4" d="M98,15.2h6.6c1.2,0,2.5,0.2,3.7,0.6c1.2,0.4,2.4,1,3.4,1.9c1,0.8,1.8,1.9,2.4,3.1s0.9,2.7,0.9,4.3
+				c0,1.7-0.3,3.1-0.9,4.3s-1.4,2.3-2.4,3.1c-1,0.8-2.1,1.5-3.4,1.9c-1.2,0.4-2.5,0.6-3.7,0.6H98V15.2z M100,33.2h4
+				c1.5,0,2.8-0.2,3.9-0.7c1.1-0.5,2-1.1,2.8-1.8c0.7-0.8,1.3-1.6,1.6-2.6s0.5-2,0.5-3c0-1-0.2-2-0.5-3c-0.4-1-0.9-1.8-1.6-2.6
+				c-0.7-0.8-1.6-1.4-2.8-1.8c-1.1-0.5-2.4-0.7-3.9-0.7h-4V33.2z" />
+                <path class="ld-i" fill="#bcd6f4" d="M121.2,35h-2V15.2h2V35z" />
+                <path class="ld-n" fill="#bcd6f4" d="M140.5,32.1L140.5,32.1l0.1-16.9h2V35h-2.5l-11.5-17.1h-0.1V35h-2V15.2h2.5L140.5,32.1z" />
+                <path class="ld-g" fill="#bcd6f4" d="M162.9,18.8c-0.7-0.7-1.5-1.3-2.5-1.7c-1-0.4-2-0.6-3.3-0.6c-1.3,0-2.4,0.2-3.4,0.7s-1.9,1.1-2.6,1.9
+				c-0.7,0.8-1.3,1.7-1.6,2.8c-0.4,1-0.6,2.1-0.6,3.3c0,1.2,0.2,2.3,0.6,3.3c0.4,1,0.9,2,1.6,2.7c0.7,0.8,1.6,1.4,2.6,1.9
+				s2.2,0.7,3.4,0.7c1.1,0,2.1-0.1,3.1-0.4c0.9-0.2,1.7-0.5,2.3-0.9v-6h-4.6v-1.8h6.6v9c-1.1,0.7-2.2,1.1-3.5,1.5
+				c-1.3,0.3-2.5,0.5-3.9,0.5c-1.5,0-2.9-0.3-4.1-0.8s-2.4-1.2-3.3-2.2c-0.9-0.9-1.6-2-2.1-3.3s-0.8-2.7-0.8-4.2s0.3-2.9,0.8-4.2
+				c0.5-1.3,1.2-2.4,2.2-3.3c0.9-0.9,2-1.6,3.3-2.2c1.3-0.5,2.6-0.8,4.1-0.8c1.6,0,3,0.2,4.1,0.7s2.2,1.1,3,2L162.9,18.8z" />
+            </g>
+        </svg>
+
+
+        <svg width='182px' height='182px' viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-ripple">
+            <rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect>
+            <g> <animate attributeName="opacity" dur="4s" repeatCount="indefinite" begin="0s" keyTimes="0;0.33;1" values="1;1;0"></animate><circle cx="50" cy="50" r="40" stroke="#eeeeee" fill="none" stroke-width="2" stroke-linecap="round"><animate attributeName="r" dur="4s" repeatCount="indefinite" begin="0s" keyTimes="0;0.33;1" values="0;22;44"></animate></circle></g>
+            <g><animate attributeName="opacity" dur="4s" repeatCount="indefinite" begin="2s" keyTimes="0;0.33;1" values="1;1;0"></animate><circle cx="50" cy="50" r="40" stroke="#eeeeee" fill="none" stroke-width="2" stroke-linecap="round"><animate attributeName="r" dur="4s" repeatCount="indefinite" begin="2s" keyTimes="0;0.33;1" values="0;22;44"></animate></circle></g>
+        </svg>
+
+
+        <div id="container"></div>
+        <div id="title">Sea Level Rise Venice</div>
+        <div id="dateContainer">
+            </br>
+            <div id="datechangeEventFixed">Date:  </div>
+            <div id="datechangeEvent"></div>
+            <div id="sealevelChangedFixed">Sea Level:  </div>
+            <div id="sealevelChangedEvent"></div>
+            <div id="tideStormContainer">
+                <div id="tideFixed">Tide:  </div>
+                <div id="tideChangedEvent"></div>
+                <div id="stormFixed">Storm Surge: 0.45m</div>
+            </div>
+        </div>
+        <div id="percentLoaded">0%</div>
+        <button type="button" class="button menuTop" id="info"><img src="./icons/info.svg" style="width: 2em;"> Info Tour</button>
+        <button type="button" class="button menuTop" id="toggleStorms"><img src="./icons/stormy.png" style="width: 2em;"> Storms</button>
+
+        <button type="button" onclick="zoomIn()" class="button menuTimeline" id="zoomIn"><img src="./icons/zoom_in.svg" style="width: 2em;"></button>
+        <button type="button" onclick="zoomOut()" class="button menuTimeline" id="zoomOut"><img src="./icons/zoom_out.svg" style="width: 2em;"></button>
+
+        <div class="modelInstr">
+            <figure id="instrLeft">
+                <img src="./icons/mouse_left.png" alt="Left mouse to tilt." />
+                <figcaption>Tilt</figcaption>
+            </figure>
+            <figure id="instrRight">
+                <img src="./icons/mouse_right.png" alt="Right mouse to pan." />
+                <figcaption>Pan</figcaption>
+            </figure>
+            <figure id="instrPan">
+                <img src="./icons/mouse_scroll.svg" alt="Scroll to zoom." />
+                <figcaption>Zoom</figcaption>
+            </figure>
+        </div>
+
+
+        </div>
+
+        <!-- Modal for tour -->
+        <div class="modal" id="mod" tabindex="1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="false" data-backdrop="static">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modTitle"></h5>
+                    </div>
+                    <div class="modal-body" id="modBody">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="button tour" id="cancelTour" data-dismiss="modal">Cancel Tour</button>
+                        <button type="button" class="button tour" id="continueTour">Continue Tour</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Modal for Disclaimer -->
+        <div class="modal" id="modDisclaimer" tabindex="1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="false" data-backdrop="static">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">DISCLAIMER</h5>
+                    </div>
+                    <div class="modal-body" id="modBody">
+                        This is just a visualization using a simple bathtub approach. It should be used to understand, not to predict.
+                        More work and validation is needed to evaluate rigorously the flooding associated with each of the different contributors over time.
+                        At present, the interaction of the hydrodynamic components with the topo-bathymetry of the area is not accounted for in the visualization.
+                        To make the visualization experience easy for the user, only king tides and a large value of storm surge are considered.
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="button tour" id="cancelDisclaimer" data-dismiss="modal">Okay</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="Local/jquery-3.3.1.js"></script>
+        <script src="Local/popper.js"></script>
+        <script src="Local/bootstrap.min.js"></script>
+
+        <script src="Local/three.js"></script>
+
+        <script src="Local/STLLoader.js"></script>
+        <script src="Local/OBJLoader.js"></script>
+        <script src="Local/MTLLoader.js"></script>
+        <!-- <script src="node_modules/three/examples/jsm/loaders/OBJLoader2Parallel.js"></script>  -->
+
+        <script src="Local/Detector.js"></script>
+        <script src="Local/stats.min.js"></script>
+        <script src="Local/FlyControls.js"></script>
+
+        <script src="Local/WebVR.js"></script>
+
+        <script src="Local/OrbitControls.js"></script>
+
+        <!-- Ocean -->
+        <script src="Local/WaterShader.js"></script>
+
+        <script src="vis/dist/vis-timeline-graph2d.min.js"></script>
+        <script src="vis/dist/vis.js"></script>
+
+        <script src="main.js"></script>
+
+    </body>
+</html>
